@@ -1,0 +1,26 @@
+{
+  "name": "securelms",
+  "version": "1.0.0",
+  "description": "A backend for LMS application with paymentGateway",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "lms",
+    "paymentGateway"
+  ],
+  "author": "AbhayPatil",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.1"
+  }
+}
