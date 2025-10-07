@@ -1,1 +1,1 @@
-# Secure-LMS-Gateway
+# Secure-LMS-PaymentGateway
